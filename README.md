@@ -237,10 +237,13 @@ npm run dev
 
 ## Add New Task
 
-## Get Tasks
+<img src="https://github.com/open-web-academy/ToDoList-Tutorial-CORE/blob/master/src/public/NewTask.gif?raw=true" width="50%">
 
 ## Complete Task
 
-## Update Task
+<img src="https://raw.githubusercontent.com/open-web-academy/ToDoList-Tutorial-CORE/master/src/public/CompleteTask.gif" width="50%">
 
 ## Delete Taks
+
+<img src="https://raw.githubusercontent.com/open-web-academy/ToDoList-Tutorial-CORE/master/src/public/RemoveTask.gif" width="50%">
+
