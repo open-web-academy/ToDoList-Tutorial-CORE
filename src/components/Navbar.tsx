@@ -128,8 +128,8 @@ const Navbar = () => {
 
       </NavBrand>
       <NavLinks>
-        <li><Link to="/">Mint NFT</Link></li>
-        <li><Link to="/get">GET NFT´s</Link></li>
+        <li><Link to="/">New Task</Link></li>
+        <li><Link to="/tasks">Tasks List</Link></li>
       </NavLinks>
       {currentAccount ? (
         <span
