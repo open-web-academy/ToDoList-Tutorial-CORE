@@ -1,6 +1,10 @@
 # TodoList dApp on Core
 
+Decentralized applications (dApps) use a blockchain or on-chain smart contracts to store and reference data, rather than relying on traditional centralized databases. A common, simple dApp structure generally consists of a React.js or Vue.js front-end using Web3.js or Ethers.js to interact with smart contracts deployed to an EVM-compatible blockchain.
+
 ## What can you do in this tutorial?
+
+In this tutorial, you will learn how to create a task list where you can add tasks and mark them as complete or delete them in the CORE network.
 
 ## Software Prerequisites
 * [Git](https://git-scm.com/) v2.44.0
@@ -227,7 +231,7 @@ npm install
 
 2. In the path src/contractABI we must copy the abi of our smart contract in the case of making modifications, this information will be obtained from contract/artifacts/contracts/TodoList.json.
 
-3. Once the smart contract is deployed, it is necessary to copy the address and replace it in each of the components where we make calls to the contract, in this case in ...
+3. Once the smart contract is deployed, it is necessary to copy the address and replace it in each of the components where we make calls to the contract, in this case in src/components/New.tsx and src/components/Get.tsx.
 
 4. To test if things are working fine, run the application by using the following command. This will serve applciation with hot reload feature at [http://localhost:5173](http://localhost:5173/)
 
