@@ -237,13 +237,24 @@ npm run dev
 
 ## Add New Task
 
+ 1. To add a new task, you must first enter the text or description of the task.
+ 2. Once this is done, click on the Add Task button and accept the transaction in metamask.
+
 <img src="https://github.com/open-web-academy/ToDoList-Tutorial-CORE/blob/master/src/public/NewTask.gif?raw=true" width="50%">
 
 ## Complete Task
 
+ 1. To mark a task as complete, you must first go to the "Task List" option in the menu.
+ 2. You must locate the task you want to mark as complete and then click on the "Complete" button.
+ 3. Finally, you will only have to accept the transaction in metamask and the task will be marked as complete.
+
 <img src="https://raw.githubusercontent.com/open-web-academy/ToDoList-Tutorial-CORE/master/src/public/CompleteTask.gif" width="50%">
 
 ## Delete Taks
+
+ 1. To remove a task from the task list, you must first go to the “Task List” option in the menu.
+ 2. You must locate the task you want to remove and then click on the “Remove” button.
+ 3. Finally, you will only have to accept the transaction in metamask and the task will be removed from the list.
 
 <img src="https://raw.githubusercontent.com/open-web-academy/ToDoList-Tutorial-CORE/master/src/public/RemoveTask.gif" width="50%">
 
